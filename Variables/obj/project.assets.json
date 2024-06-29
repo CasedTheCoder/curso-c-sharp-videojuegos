@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cased/CasedTheCoder/variables/variables.csproj",
+      "projectUniqueName": "/Users/cased/CasedTheCoder/curso-c-sharp-videojuegos/Variables/variables.csproj",
       "projectName": "variables",
-      "projectPath": "/Users/cased/CasedTheCoder/variables/variables.csproj",
+      "projectPath": "/Users/cased/CasedTheCoder/curso-c-sharp-videojuegos/Variables/variables.csproj",
       "packagesPath": "/Users/cased/.nuget/packages/",
-      "outputPath": "/Users/cased/CasedTheCoder/variables/obj/",
+      "outputPath": "/Users/cased/CasedTheCoder/curso-c-sharp-videojuegos/Variables/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cased/.nuget/NuGet/NuGet.Config"
